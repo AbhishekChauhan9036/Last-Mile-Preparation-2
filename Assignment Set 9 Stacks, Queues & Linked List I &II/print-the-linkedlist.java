@@ -19,7 +19,7 @@ class Node {
         next = null;
     }
 }
-// */
+// ..*/
      public static void printList(Node head) {
         Node currNode = head;
         while (currNode != null) {
